@@ -1,5 +1,6 @@
 # Projeto salão de Beleza
 link [🔗 Ver o projeto](https://jhonysantos28.github.io/Salon_de_Beleza/)
+
 Um projeto de site moderno e responsivo para salão de beleza, desenvolvido com foco em apresentar os serviços de forma profissional e proporcionar uma experiência simples e agradável para os clientes.
 
 ## Sobre o projeto
